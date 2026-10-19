@@ -14,6 +14,3 @@ I am a Software Developer holding a Bachelor's degree in Computer Engineering, c
 * Security & Penetration Testing: Executed vulnerability assessments and simulated cyberattacks in controlled environments to identify system weaknesses and improve overall security posture.
 * Algorithmic Solutions: Implemented complex backend logic, including 2D and 3D grid pathfinding engines based on the A* algorithm.
 * Distributed Systems: Developed conceptual architectures for tracking and verifying environmental data through IoT sensors and immutable ledgers.
-
-### Contact Information
-* LinkedIn: 
